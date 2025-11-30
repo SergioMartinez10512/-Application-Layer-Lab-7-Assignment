@@ -6,7 +6,7 @@ Create the File: Open the folder, right-click, select New > Text Document, and n
 
 Note: If you don't see ".html", you might need to enable "File name extensions" in your computer's view settings.
 
-Paste the Code: Open that file, paste the code I gave you (or the code from your GitHub), and save it.
+Paste the Code: Open that file, paste the code from your GitHub, and save it.
 
 Phase 2: Open in VS Code
 Open Visual Studio Code.
